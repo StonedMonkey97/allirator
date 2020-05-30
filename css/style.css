@@ -653,11 +653,11 @@ body {
   -o-transition: all .2s;
   background-image: linear-gradient(to bottom, rgba(45, 20, 44, 0.4), rgba(81, 10, 50, 0.5)), linear-gradient(to right bottom, rgba(71, 71, 71, 0.2), rgba(54, 54, 54, 0.7)); }
   .right__header--search-button:hover {
-    transform: scale(1.2);
-    -webkit-transform: scale(1.2);
-    -moz-transform: scale(1.2);
-    -ms-transform: scale(1.2);
-    -o-transform: scale(1.2); }
+    transform: scale(1.08);
+    -webkit-transform: scale(1.08);
+    -moz-transform: scale(1.08);
+    -ms-transform: scale(1.08);
+    -o-transform: scale(1.08); }
   .right__header--search-button:active {
     transform: scale(1);
     -webkit-transform: scale(1);
